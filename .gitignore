@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+*.DS_Store
+.venv
+build/
+venv
+/nbconvert/
+__pycache__/
+.idea/
+.vscode
